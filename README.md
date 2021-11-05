@@ -17,7 +17,7 @@
 [<img align="left" alt="HTML5" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][HTML5]
 [<img align="left" alt="CSS3" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][CSS3]
 [<img align="left" alt="SASS" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>][SASS]
-[<img align="left" alt="MongoDB" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>][MongoDB]
+[<img align="left" alt="MongoDB" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>][MongoDB]
 
 <br/>
 <br/>
