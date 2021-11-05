@@ -6,6 +6,7 @@
 
 [<img align="left" alt=" el1seev | instagram" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][instagram]
 [<img align="left" alt=" el1seev | vk" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg"/>][vkontakte]
+[<img align="left" alt=" el1seev | linkedin" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][vkontakte]
 
 <br/>
 
@@ -24,6 +25,7 @@
 
 [instagram]: https://www.instagram.com/_sergey.eliseev_/?hl=ru
 [vkontakte]: https://vk.com/sergeyeliseev0
+[linkedin]: https://www.linkedin.com/in/сергей-елисеев-151749225/
 [LearnJS]: https://learn.javascript.ru
 [React]: https://ru.reactjs.org
 [Node]: https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express
