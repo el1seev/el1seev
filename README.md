@@ -6,7 +6,7 @@
 
 [<img align="left" alt=" el1seev | instagram" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][instagram]
 [<img align="left" alt=" el1seev | vk" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg"/>][vkontakte]
-[<img align="left" alt=" el1seev | linkedin" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][vkontakte]
+[<img align="left" alt=" el1seev | linkedin" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
 
 <br/>
 
