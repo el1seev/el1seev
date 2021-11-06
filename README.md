@@ -25,7 +25,7 @@
 
 [instagram]: https://www.instagram.com/_sergey.eliseev_/?hl=ru
 [vkontakte]: https://vk.com/sergeyeliseev0
-[linkedin]: https://www.linkedin.com/in/сергей-елисеев-151749225/
+[linkedin]: https://www.linkedin.com/in/sergeyeliseev/
 [LearnJS]: https://learn.javascript.ru
 [React]: https://ru.reactjs.org
 [Node]: https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express
