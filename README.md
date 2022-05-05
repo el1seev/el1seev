@@ -3,8 +3,8 @@
 ## I'm a student of Brest State Technical University🎓
 
 ### Contacts:
-
-[<img align="left" alt=" el1seev | instagram" width="126px"  src="https://user-images.githubusercontent.com/73126326/167024267-fa3c9d5b-df83-4492-87df-230e00b89f2d.png"/>][instagram]
+<i class="fa-brands fa-instagram"></i>
+[<img align="left" alt=" el1seev | instagram" width="26px"  src=""/>][instagram]
 [<img align="left" alt=" el1seev | instagram" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][instagram]
 [<img align="left" alt=" el1seev | vk" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg"/>][vkontakte]
 [<img align="left" alt=" el1seev | linkedin" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
