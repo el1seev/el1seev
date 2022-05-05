@@ -3,7 +3,7 @@
 ## I'm a student of Brest State Technical University🎓
 
 ### Contacts:
-<i class="fa-brands fa-instagram"></i>
+[<i class="fa-brands fa-instagram"></i>][instagram]
 [<img align="left" alt=" el1seev | instagram" width="26px"  src=""/>][instagram]
 [<img align="left" alt=" el1seev | instagram" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][instagram]
 [<img align="left" alt=" el1seev | vk" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg"/>][vkontakte]
