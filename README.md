@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-[<img align="left" alt=" el1seev | instagram" width="26px"  src="https://w7.pngwing.com/pngs/51/854/png-transparent-the-moth-cafe-the-shed-restaurant-organization-instagram-facebook-logo-insta-text-logo-united-states.png"/>][instagram]
+[<img align="left" alt=" el1seev | instagram" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png"/>][instagram]
 [<img align="left" alt=" el1seev | instagram" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg"/>][instagram]
 [<img align="left" alt=" el1seev | vk" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg"/>][vkontakte]
 [<img align="left" alt=" el1seev | linkedin" width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
