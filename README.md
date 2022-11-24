@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-[instagram]: https://www.instagram.com/_sergey.eliseev_/?hl=ru
+[instagram]: https://www.instagram.com/eliseyevv/?hl=ru
 [vkontakte]: https://vk.com/sergeyeliseev0
 [linkedin]: https://www.linkedin.com/in/sergeyeliseev/
 [LearnJS]: https://learn.javascript.ru
