@@ -1,6 +1,6 @@
 ### Hi there , I'm Sergey 20 years old 👋
 
-## I'm a student of Brest State Technical University🎓
+## Graduated from the Brest State Technical University🎓
 
 ### Contacts:
 
